@@ -1,11 +1,10 @@
-
-<h1 >Hi 👋, I'm Aikansh Boyal</h1>
+## Hi 👋, I'm Aikansh Boyal
 <h3>A geek who wants to do everything !!</h3>
 
 - 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently studying for GATE Examination.
-- 💬 Ask me about Guitars and Metal Music. 
-- ⚡ Fun fact: I prepared/wasted a whole year for JEE. 
+- 💬 Ask me about guitars and metallica. 
+- ⚡ Fun fact: I skipped a year for JEE. 
 - 📫 How to reach me **boyalnanun@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
