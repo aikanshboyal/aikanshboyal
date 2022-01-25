@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Aikansh Boyal
-<p> <h3>A geek who wants to do everything !!  </h3> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aikanshboyal.aikanshboyal) </p>
+<h3>A geek who wants to do everything !!  </h3> 
 
 
 
@@ -19,6 +19,6 @@
 * 💻 C++, Python
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aikanshboyal&show_icons=true&theme=radical" alt="aikanshboyal" /></p>
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=aikanshboyal.aikanshboyal)
 
 
