@@ -17,5 +17,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aikanshboyal&show_icons=true&locale=en&layout=compact" alt="aikanshboyal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox" alt="aikanshboyal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aikanshboyal&show_icons=true&theme=radical" alt="aikanshboyal" /></p>
 
