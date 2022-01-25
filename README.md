@@ -11,12 +11,11 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/aikansh-boyal-01811b200/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aikanshboyal" height="30" width="40" /></a>
 </p>
-<!-- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aikanshboyal&show_icons=true&locale=en&layout=compact" alt="aikanshboyal" /></p> -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aikanshboyal&layout=compact" alt="aikanshboyal" /></p>
 
 ## Skills and Experience
 * 📱 Flutter, Firebase
 * 💻 C++, Python
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aikanshboyal&show_icons=true&theme=radical" alt="aikanshboyal" /></p>
-
