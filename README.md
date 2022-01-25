@@ -6,8 +6,6 @@
 - 🌱 I’m currently studying for GATE Examination.
 - 💬 Ask me about Guitars and Metal Music. 
 - ⚡ Fun fact: I prepared/wasted a whole year for JEE. 
-
-
 - 📫 How to reach me **boyalnanun@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -16,6 +14,10 @@
 </p>
 <!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aikanshboyal&show_icons=true&locale=en&layout=compact" alt="aikanshboyal" /></p> -->
+
+## Skills and Experience
+* 📱 Flutter, Firebase
+* 💻 C++, Python
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aikanshboyal&show_icons=true&theme=radical" alt="aikanshboyal" /></p>
 
