@@ -1,11 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm Aikansh Boyal</h1>
-<h3 align="center">A geek who wants to do everything!!</h3>
+<h1 >Hi 👋, I'm Aikansh Boyal</h1>
+<h3>A geek who wants to do everything !!</h3>
 
-- 🔭 I’m currently working on Flutter Development.
+- 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently studying for GATE Examination.
 - 💬 Ask me about Guitars and Metal Music. 
-- ⚡ Fun fact: I want to play Valorant but I can't.
+- ⚡ Fun fact: I prepared/wasted a whole year for JEE. 
 
 
 - 📫 How to reach me **boyalnanun@gmail.com**
@@ -17,5 +17,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aikanshboyal&show_icons=true&locale=en&layout=compact" alt="aikanshboyal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aikanshboyal&show_icons=true&locale=en" alt="aikanshboyal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aikanshboyal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="aikanshboyal" /></p>
 
