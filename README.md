@@ -12,10 +12,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aikansh-boyal-01811b200/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Aikansh Boyal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aikansh-boyal-01811b200/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aikanshboyal" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboogoel01&show_icons=true&locale=en&layout=compact" alt="khushboogoel01" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aikanshboyal&show_icons=true&locale=en&layout=compact" alt="aikanshboyal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushboogoel01&show_icons=true&locale=en" alt="khushboogoel01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aikanshboyal&show_icons=true&locale=en" alt="aikanshboyal" /></p>
 
