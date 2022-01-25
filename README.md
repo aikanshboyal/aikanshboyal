@@ -5,7 +5,7 @@
 - 🌱 I’m currently studying for GATE Examination.
 - 💬 Ask me about guitars and metallica. 
 - ⚡ Fun fact: I skipped a year for JEE. 
-- 📫 How to reach me **boyalnanun@gmail.com**
+- 📫 How to reach me: **boyalnanun@gmail.com**
 
 ## Connect with me:
 <p align="left">
@@ -17,3 +17,6 @@
 * 💻 C++, Python
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aikanshboyal&show_icons=true&theme=radical" alt="aikanshboyal" /></p>
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=aikanshboyal.aikanshboyal)
