@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/aikansh-boyal-01811b200/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aikanshboyal" height="30" width="40" /></a>
 </p>
 
-## Skills and Experience
+## Languages & Framework
 * 📱 Flutter, Firebase
 * 💻 C++, Python
 
