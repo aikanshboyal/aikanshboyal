@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Aikansh Boyal
-<h3>A geek who wants to do everything !!  </h3> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aikanshboyal.aikanshboyal) 
+<p> <h3>A geek who wants to do everything !!  </h3> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aikanshboyal.aikanshboyal) </p>
 
 
 
