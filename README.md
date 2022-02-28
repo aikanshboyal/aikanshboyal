@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on my portfolio.
+- 🔭 Contributor at GirlScript Summer of Code.
 - 🌱 I’m currently studying for GATE Examination.
 - 💬 Ask me about guitars and metallica. 
 - ⚡ Fun fact: I skipped a year for JEE. 
