@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Contributor at GirlScript Summer of Code.
+- 🔭 Mobile Developer Intern at RAIN Platforms
 - 🌱 I’m currently studying for GATE Examination.
 - 💬 Ask me about guitars and metallica. 
 - ⚡ Fun fact: I skipped a year for JEE. 
